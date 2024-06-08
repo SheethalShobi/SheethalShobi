@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheethal Shobi</h1>
+<h1 align="center">Hi 👋, I'm Sheethal </h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer...</h3>
 
 
