@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SheethalShobi](https://github.com/SheethalShobi)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sheethalshobi@gmail.com**
