@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.JS**
+
 
 - 💬 Ask me about **React**
 
