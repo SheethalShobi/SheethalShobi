@@ -6,9 +6,8 @@
 
 
 
-
-- 💬 Ask me about **React**
-
+- I'm currently working on WebDev
+- 💬 Ask me about React,Python,C,MySQL
 - 📫 How to reach me **sheethalshobi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
