@@ -7,7 +7,7 @@
 
 
 - I'm currently working on WebDev
-- 💬 Ask me about React,Python,C,MySQL
+- 💬 Ask me about **React,Python,C,MySQL**
 - 📫 How to reach me **sheethalshobi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +22,8 @@
 
 <p>
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheethalshobi&layout=donut&theme=tokyonight"/>
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </p>
 </br></br>
