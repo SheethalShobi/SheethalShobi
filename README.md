@@ -2,13 +2,9 @@
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer...</h3>
 
 
+Hi, I’m Sheethal — a curious mind who loves both coding and creating. I’m currently in my final year of Computer Science Engineering at Model Engineering College, with a deep interest in DevOps, DSA, and all stuffs that make systems run smoothly behind the scenes.
 
-
-
-
-- I'm currently working on WebDev
-- 💬 Ask me about **React,Python,SQL**
-- 📫 How to reach me **sheethalshobi@gmail.com**
+Outside the world of code, I'm also someone who loves to paint 🎨. Nature, skies, and emotions often find their way onto my canvas — whether it's through  Watercolour or Acrylics. I believe creativity flows both in code and colors,and I try to keep both alive in my routine. Always up for learning something new,solving problems,and creating things that actually work (and look good too!).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
