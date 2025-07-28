@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sheethal </h1>
-<h3 align="center">From concepts to code — with clarity and craft.</h3>
 
 
 Hi, I’m Sheethal — a curious mind who loves both coding and creating. I’m currently in my final year of Computer Science Engineering at Model Engineering College, with a deep interest in DevOps, DSA, and all stuffs that make systems run smoothly behind the scenes.
